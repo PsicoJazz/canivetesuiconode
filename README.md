@@ -1,2 +1,2 @@
 # canivetesuico
-Biblioteca matemática para ser usada em Javascript e Node.js
+Biblioteca matemática para ser usada em projetos Javascript e Node.js

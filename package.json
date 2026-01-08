@@ -1,7 +1,7 @@
 {
-  "name": "canivetesuiconode",
-  "version": "3.0.2",
-  "description": "Efetua a vereificação se um numero é par ou impar e se é primo",
+  "name": "@psicojazz/canivetesuiconode",
+  "version": "1.0.0",
+  "description": "Biblioteca matemática",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
